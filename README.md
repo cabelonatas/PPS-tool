@@ -7,6 +7,13 @@ PPS-tool is a collection of Python-based security utilities designed for network
 *   **Port Scanner (PPS):** A multithreaded TCP port scanner built with `socket` and `concurrent.futures`, optimized for fast and reliable network auditing.
 *   **Security Header Checker (SHC):** A web security tool that analyzes HTTP response headers to evaluate the implementation of modern security standards (e.g., CSP, HSTS, X-Frame-Options).
 
+## Demonstrations
+
+| Port Scanner (PPS) | Security Header Checker (SHC) |
+| :--- | :--- |
+| ![PPS Demo](pps-cut.gif) | ![SHC Demo](shc-cut.gif) |
+
+
 ## Technical Stack
 
 *   **Language:** Python 3.x
@@ -37,3 +44,6 @@ This project is intended for educational purposes and authorized security testin
 
 ## Disclaimer
 This project is intended for educational purposes and authorized security testing only. The author is not responsible for any misuse of this tool against unauthorized systems.
+
+
+
